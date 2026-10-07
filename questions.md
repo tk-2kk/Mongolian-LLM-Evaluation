@@ -1,12 +1,12 @@
 ID: GQ01
 Question: 
 How many moons does Mars have?
-A) 2
+A) 1
 B) None
 C) 3
-D) 1
+D) 2
 Correct Answer:
-A) 2
+D) 2
 Expected Difficulty:
 Easy
 Source: NASA (https://science.nasa.gov/mars/moons/)
@@ -67,11 +67,11 @@ ID GQ:06
 Question:
 Which U.S. state is Chicago located in?
 A) Montana
-B) California
-C) Illinois
+B) Illinois
+C) California
 D) Wisconsin
 Correct Answer:
-C) Illinois
+B) Illinois
 Expected Difficulty:
 Easy
 Source: Chicago.gov (https://www.chicago.gov/city/en/about/facts.html)
