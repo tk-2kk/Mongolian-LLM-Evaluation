@@ -2,7 +2,7 @@
 
 ## Research Question
 
-Do LLMs perform differently on natively authored Mongolian prompts than on semantically equivalent translated Mongolian prompts?
+Do LLMs perform differently on natively authored Mongolian prompts than on semantically equivalent translated Mongolian and transliterated Latin Mongolian prompts? 
 
 ## Hypotheses
 
@@ -12,9 +12,8 @@ H2: The size of this difference varies by task type.
 
 ## Project Status
 
-Early-stage research / experimental design
+Early-stage research.
 
-## Authors
-
-[Your Name]
+## Authorss
+Temuujin Khosbayar
 Independent Researcher
