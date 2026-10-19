@@ -1,5 +1,5 @@
-record_id,item_id,condition,question,option_a,option_b,option_c,option_d,correct_option,category,question_type,expected_difficulty,fact_source_name,fact_source_url,source_access_date,created_by,reviewed_by,review_status,revision_version
-GQ01,GQ01,english_original,How many moons does Mars have?,1,None,3,4,D,Science,factual_recall,Easy,NASA,https://science.nasa.gov/mars/moons/,2026-10-06,U01,,not_reviewed,1
+record_id,item_id,condition,question,option_a,option_b,option_c,option_d,answer_format,gold_answer,category,question_type,expected_difficulty,fact_source_name,fact_source_url,source_access_date,created_by,reviewed_by,review_status,revision_version
+GQ01,GQ01,english_original,How many moons does Mars have?,1,None,3,2,multiple_choice,D,Science,factual_recall,Easy,NASA,https://science.nasa.gov/mars/moons/,2026-10-06,U01,,not_reviewed,1
 GQ02,GQ02,english_original,Which is the largest terrestrial planet in the Solar System?,Mercury,Venus,Earth,Mars,C,Science,factual_recall,Easy,NASA,https://science.nasa.gov/earth/facts/,2026-10-07,U01,,not_reviewed,1
 GQ03,GQ03,english_original,Which company introduced the iPhone in 2007?,Motorola,Apple,Dell,Samsung,B,Technology,factual_recall,Easy,Apple Newsroom,https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/,2026-10-07,U01,,not_reviewed,1
 GQ04,GQ04,english_original,In which country was the musician Drake born?,USA,Mexico,Japan,Canada,D,Geography,factual_recall,Easy,IMDB,https://www.imdb.com/name/nm1013044/bio/,2026-10-07,U01,,not_reviewed,1

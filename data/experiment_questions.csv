@@ -1,0 +1,5 @@
+record_id,item_id,condition,question,assessed_difficulty,difficulty_assessed_by,difficulty_assessed_date,difficulty_rubric_version,difficulty_assessment_status,translation_tool,translation_mode,translation_date,translation_notes,transliteration_convention,created_by,reviewed_by,review_status,revision_version
+M01_EN,M01,english_original,"Weng earns $12 an hour for babysitting. Yesterday, she just did 50 minutes of babysitting. How much did she earn?",,,,,,,,,,,U01,,not_reviewed,1
+M01_MT,M01,machine_translated_mn_cyrl,Венг хүүхэд харах ажил хийгээд цагт 12 доллар олдог. Тэрээр өчигдөр ердөө 50 минут хүүхэд харсан бол хэдэн доллар олсон бэ?,,,,,,Google Translate,unknown,,Mode cannot currently be verified,,U01,,not_reviewed,1
+M01_NC,M01,native_authored_mn_cyrl,Вэнг цагийн $12 цалинтай хүүхэд хардаг. Вэнг өчигдөр 50 минут ажилласан. Вэнгийн өчигдрийн цалин хэдэн $ вэ?,,,,,,,,,,,U01,,not_reviewed,1
+M01_NL,M01,native_authored_mn_latn,Weng tsagiin $12 tsalintai huuhed hardag. Weng uchigdur 50 minute ajillasan. Wengiin uchigdriin tsalin heden $ ve?,,,,,,,,,,Informal Latin transliteration; convention not formally standardized,U01,,not_reviewed,1
